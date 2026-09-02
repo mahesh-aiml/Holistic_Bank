@@ -191,8 +191,7 @@ Licensed under the **MIT License** — feel free to use and adapt with attributi
 
 ## 🙋 Author
 
-**Your Name**
-[GitHub](#) · [LinkedIn](#) · [Email](#)
+**Mahesh Lohar**
 
 <div align="center">
 
